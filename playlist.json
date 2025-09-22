@@ -60,9 +60,9 @@
         "group": "vidio.com"
     },
     {
-        "channel": "Champions TV 1",
-        "url": "https://api.vidio.com/livestreamings/6685/stream",
-        "poster": "https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg",
+        "channel": "Trans7 VDO",
+        "url": "https://api.vidio.com/livestreamings/734/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",
         "group": "vidio.com"
     }
 ]
