@@ -8,13 +8,13 @@
     {
         "channel": "TransTV",
         "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",
+        "poster": "https://thumbor.prod.vidiocdn.com/NK4FDuTsmSh5KibVRH61dJRuXGM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg",
         "group": "transmedia"
     },
     {
         "channel": "Trans7",
         "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
+        "poster": "https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",
         "group": "transmedia"
     },
     {
@@ -54,7 +54,7 @@
         "group": "vidio.com"
     },
     {
-        "channel": "MetroTV",
+        "channel": "Metro TV",
         "url": "https://api.vidio.com/livestreamings/777/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/3f1SUZvUgp_5WlH1xqSYL6Mnz_E=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",
         "group": "vidio.com"
@@ -70,21 +70,16 @@
         "url": "https://api.vidio.com/livestreamings/18280/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/1yZAzPLSQiAZPKtRr6U_OX3nqss=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",
         "group": "vidio.com"
-    },
+    }
+    
     {
-        "channel": "Moji",
-        "url": "https://api.vidio.com/livestreamings/206/stream",
-        "poster": "https://thumbor.prod.vidiocdn.com/bwUEILb_i5ngA1tmC0WaTOP9gCc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg",
-        "group": "vidio.com"
-    },
-    {
-        "channel": "KompasTV",
+        "channel": "Kompas TV",
         "url": "https://api.vidio.com/livestreamings/874/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/a40X8H7Ucomd7pN77vT3gwG4lRA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg",
         "group": "vidio.com"
     },
     {
-        "channel": "GarudaTV",
+        "channel": "Garuda TV",
         "url": "https://api.vidio.com/livestreamings/18162/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/HBAQU6IMcV4WjpksrE1sj5htPa4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg",
         "group": "vidio.com"
@@ -114,19 +109,25 @@
         "group": "vidio.com"
     },
     {
-        "channel": "JawaPosTV",
+        "channel": "JawaPos TV",
         "url": "https://api.vidio.com/livestreamings/9714/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",
         "group": "vidio.com"
     },
     {
-        "channel": "NusantaraTV",
+        "channel": "JTV",
+        "url": "https://api.vidio.com/livestreamings/9713/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/e-FrpJtWmoFkkGI-1m2quT8ECxA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "Nusantara TV",
         "url": "https://api.vidio.com/livestreamings/7432/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",
         "group": "vidio.com"
     },
     {
-        "channel": "AjwaTV",
+        "channel": "Ajwa TV",
         "url": "https://api.vidio.com/livestreamings/7464/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/k8i3_sBDDWXAs5n4iarnQuO0mGs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg",
         "group": "vidio.com"
@@ -135,6 +136,48 @@
         "channel": "DAAITV",
         "url": "https://api.vidio.com/livestreamings/6482/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/q9kBZHBTkCH_DTFLDxk-H6sU8VA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "Mentari TV",
+        "url": "https://api.vidio.com/livestreamings/8237/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/ptdO45dn29cHF_rlraD3h583EuQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "GGSTV",
+        "url": "https://api.vidio.com/livestreamings/18105/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/1jAXIqyEVNbq_oEAzo1St8hKMPE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18105/ggs-tv-e2ff0e.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "Sin Po TV",
+        "url": "https://api.vidio.com/livestreamings/19046/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "Hip Hip Horee!",
+        "url": "https://api.vidio.com/livestreamings/7052/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/JZhNjRtZCM9k0zyErCy0Klj24YU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "Horee!",
+        "url": "https://api.vidio.com/livestreamings/6397/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/E1W2EPL2nPhyqsqMXsqYzV43N7s=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg",
+        "group": "vidio.com"
+    },
+    {
+        "channel": "U-Channel TV",
+        "url": "https://api.vidio.com/livestreamings/6898/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/ZrDwh3puHdQHG8TJcf6J6oRtxLw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg",
+        "group": "vidio.com"
+    },    
+    {
+        "channel": "Magna TV",
+        "url": "https://api.vidio.com/livestreamings/7230/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/1oI0gduQjQYF5hmro0lmfOSJ_l0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg",
         "group": "vidio.com"
     }
 ]
