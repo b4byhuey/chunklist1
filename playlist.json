@@ -70,8 +70,7 @@
         "url": "https://api.vidio.com/livestreamings/18280/stream",
         "poster": "https://thumbor.prod.vidiocdn.com/1yZAzPLSQiAZPKtRr6U_OX3nqss=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",
         "group": "vidio.com"
-    }
-    
+    },    
     {
         "channel": "Kompas TV",
         "url": "https://api.vidio.com/livestreamings/874/stream",
